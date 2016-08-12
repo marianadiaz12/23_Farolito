@@ -1,0 +1,121 @@
+header a{
+	text-decoration: none;
+	color: #989898;;
+	}	
+a{
+	text-decoration: none;
+}
+nav ul{
+	list-style-type: none;
+	float: right;
+	margin-right: -120px;
+}
+nav ul li{
+	display: inline-block;
+	margin-top: 5%;
+	margin-bottom: 30%
+}
+/*Colores*/
+.Gris{
+	color: #989898;
+	}  
+.Grisoscuro{
+	color: #4d4545;
+	}
+.Celeste{
+	color: #28c5e6;
+	} 
+.Anaranjado{
+	color: #ff6a49;
+	}  
+.Verde{
+	color: #77d248;
+	} 
+.Amarillo{
+	color: #ffc200;
+	} 
+	/*Tipo de letra*/
+*{
+	font-family: 'Lato', sans-serif;
+}
+	/*Tamaño de letra*/
+.font1{
+	font-size: 1em;
+}
+.font2{
+	font-size: 1.5em;
+}
+.font3{
+	font-size: 2em;
+}
+.font4{
+	font-size: 3em;
+}
+	/*Alinear*/
+.izq{
+	text-align: left;
+}
+.der{
+	text-align: right;
+}
+
+	/*Imagenes*/
+img{
+	display: block;
+	margin: auto;
+}
+	/*parrafos*/
+p{
+	text-align: center;
+}
+	/*Margenes*/
+.mt5{
+	margin-top: 5%;
+}	
+.mt10{
+	margin-top: 10%;
+}
+.mb5{
+	margin-bottom: 5%;
+}
+.mb10{
+	margin-bottom: 10%;
+}
+	/*botones*/
+button{
+	display: block;
+	margin: auto;
+	border-radius:25px;
+	border:1px solid white;
+}
+	/*Secciones*/
+section{
+	width: 100%;
+}	
+	/*Encabezados*/
+h1{
+	text-align: center;
+	margin-bottom: 5%;
+	margin-top: 5%;
+	font-size: 2.5em;
+}
+h2{
+	text-align: center;
+	margin-bottom: 5%;
+}
+h3{
+	text-align: center;
+}
+
+.fop{
+	color: white;
+}
+/*Fondo psitache para el header de las demas paginas*/
+.fondover{
+	background-color: #ABEBC6;
+}
+.flechita{
+	margin-bottom: -3%;
+	border: 2px solid white;
+	border-radius: 50%;
+}
